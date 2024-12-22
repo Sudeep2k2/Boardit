@@ -64,42 +64,4 @@ Before you begin, ensure you have the following installed:
 3. In the whiteboard view, you can draw, add text, and collaborate in real-time with other users.
 4. Your work is automatically saved, so you can always come back to it later.
 
-## 2nd Phase Features
-
-In the next phase of development, we plan to enhance Boardit with the following features:
-
-1. **Advanced Drawing Tools**: Implement more sophisticated drawing tools such as shape recognition, brush styles, and layering.
-
-2. **Template Library**: Create a library of pre-designed templates for common use cases like brainstorming, project planning, and mind mapping.
-
-3. **File Integration**: Allow users to upload and embed various file types (images, PDFs, documents) directly into the whiteboard.
-
-4. **Video Conferencing**: Integrate video and audio calling capabilities within the app for seamless communication during collaboration.
-
-5. **Version History**: Implement a version control system that allows users to view and revert to previous versions of their whiteboards.
-
-6. **AI-Assisted Ideation**: Incorporate AI tools to suggest ideas, organize information, or provide relevant resources based on whiteboard content.
-
-7. **Export and Sharing Options**: Enable users to export whiteboards in various formats (PNG, PDF, etc.) and improve sharing capabilities with non-users.
-
-8. **Customizable Workspaces**: Allow users to create and customize different workspaces for various projects or teams.
-
-9. **Analytics Dashboard**: Provide insights on whiteboard usage, collaboration patterns, and productivity metrics.
-
-10. **Mobile App**: Develop native mobile applications for iOS and Android to enable on-the-go collaboration.
-
-These features aim to make Boardit an even more powerful and versatile tool for remote collaboration and creative work.
-
-## Contributing
-
-We welcome contributions to Boardit! Please read our contributing guidelines before submitting pull requests.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-## Contact
-
-If you have any questions or feedback, please reach out to us at support@boardit.com.
-
 Thank you for using Boardit!
